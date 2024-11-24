@@ -15,13 +15,6 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-backgroundImage:
-  type: BackgroundImage
-  url: /images/trumpet tree.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 ---
 ```
 in the rain-
