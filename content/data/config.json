@@ -57,7 +57,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "send me your favourite joke",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             }
