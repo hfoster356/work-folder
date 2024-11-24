@@ -57,12 +57,6 @@
             },
             {
                 "type": "Link",
-                "label": "send me your favourite joke",
-                "url": "mailto:hfoster356+site@gmail.com",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "spotify",
                 "altText": "",
                 "url": "/https://open.spotify.com/user/hfoster356?si=0b196c3ef9624837",
@@ -70,6 +64,12 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "send me your favourite joke",
+                "url": "mailto:hfoster356+site@gmail.com",
+                "altText": ""
             }
         ],
         "copyrightText": "",
