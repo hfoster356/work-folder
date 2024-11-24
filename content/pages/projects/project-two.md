@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: conjuring
 colors: colors-a
-date: '2021-12-20'
+date: '2024-11-24'
 client: Awesome client
 description: ''
 featuredImage:
