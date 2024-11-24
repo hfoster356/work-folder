@@ -14,3 +14,4 @@ media:
   url: /images/bare hands stars.png
   altText: Project image
 ---
+![](/images/bare%20hands%20darker2.png)
