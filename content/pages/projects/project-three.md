@@ -21,6 +21,7 @@ in the rain-
 darkness,        the sunset
 being sheathed i sit and
 think of you
+```</div>
 
 the holy
 city which is your face
@@ -43,35 +44,46 @@ a single star is
 uttered,and i
 
 think
-           of you
+of you
 
 //
 
-there is a 
-moon sole 
-in the blue 
-night 
+there is a
+moon sole
+in the blue
+night
 
-             amorous of waters 
-tremulous, 
-blinded with silence the 
-undulous heaven yearns where 
+```
+         amorous of waters 
+```
 
-in tense starlessness 
-anoint with ardor 
-the yellow lover 
+tremulous,
+blinded with silence the
+undulous heaven yearns where
 
-stands in the dumb dark 
-svelte 
-and 
-urgent 
+in tense starlessness
+anoint with ardor
+the yellow lover
 
-           (again 
-love i slowly 
-gather 
-of thy languorous mouth the 
+stands in the dumb dark
+svelte
+and
+urgent
 
-thrilling 
+```
+       (again 
+```
+
+love i slowly
+gather
+of thy languorous mouth the
+
+thrilling
 flower)
+
 ```</div>
+
+
+
+```
 
