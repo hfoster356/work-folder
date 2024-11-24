@@ -18,4 +18,3 @@ media:
   caption: Caption of the image
   elementId: ''
 ---
-![](/images/bare%20hands%20darker2.png)
