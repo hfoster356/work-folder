@@ -10,7 +10,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/myoclonus neat psychedelic.png
+  url: /images/moth final final.png
   altText: Project image
   caption: ''
 bottomSections: []
