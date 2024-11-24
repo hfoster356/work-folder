@@ -10,7 +10,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bare hands stars.png
+  url: /images/dog stars phone.png
   altText: Project image
 bottomSections: []
 metaTags: []
