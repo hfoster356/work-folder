@@ -21,27 +21,34 @@ there is a
 moon sole 
 in the blue 
 night 
+```</div>
 
-             amorous of waters 
-tremulous, 
-blinded with silence the 
-undulous heaven yearns where 
+```
+         amorous of waters 
+```
 
-in tense starlessness 
-anoint with ardor 
-the yellow lover 
+tremulous,
+blinded with silence the
+undulous heaven yearns where
 
-stands in the dumb dark 
-svelte 
-and 
-urgent 
+in tense starlessness
+anoint with ardor
+the yellow lover
 
-           (again 
-love i slowly 
-gather 
-of thy languorous mouth the 
+stands in the dumb dark
+svelte
+and
+urgent
 
-thrilling 
+```
+       (again 
+```
+
+love i slowly
+gather
+of thy languorous mouth the
+
+thrilling
 flower)
 
 //
@@ -72,8 +79,8 @@ a single star is
 uttered,and i
 
 think
-           of you
-
+of you
 
 ```</div>
+```
 
