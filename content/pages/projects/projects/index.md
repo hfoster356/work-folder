@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/dog stars phone.png
+  url: /images/myoclonus neat psychedelic.png
   altText: Project thumbnail image
 bottomSections: []
 metaTags: []
