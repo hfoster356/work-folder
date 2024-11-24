@@ -3,7 +3,7 @@ type: ProjectLayout
 title: conjuring
 colors: colors-a
 date: '2024-05-09'
-client: with my bare hands
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
