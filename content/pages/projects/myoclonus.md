@@ -4,12 +4,6 @@ title: myoclonus
 date: '2024-05-08'
 client: ''
 description: 'sweet lovely death, i am waiting for your breath'
-featuredImage:
-  type: ImageBlock
-  url: /images/myoclonus neat psychedelic.png
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
 media:
   type: ImageBlock
   url: /images/myoclonus neat psychedelic.png
