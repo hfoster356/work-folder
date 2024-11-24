@@ -4,7 +4,7 @@ title: swimming black
 colors: colors-a
 date: '2024-10-24'
 client: ''
-description: 'excerpt from '
+description: ''
 media:
   type: ImageBlock
   url: /images/bg3.jpg
