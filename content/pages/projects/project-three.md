@@ -45,7 +45,9 @@ uttered,and i
 think
            of you
 
-~ ~
+
+~ ~ ~
+
 
 there is a 
 moon sole 
