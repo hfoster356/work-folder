@@ -3,9 +3,7 @@ type: ProjectLayout
 title: myoclonus
 date: '2024-05-08'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'sweet lovely '
 featuredImage:
   type: ImageBlock
   url: /images/myoclonus neat psychedelic.png
