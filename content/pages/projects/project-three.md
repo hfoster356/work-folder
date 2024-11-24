@@ -46,7 +46,7 @@ think
            of you
 
 
-~ ~ ~
+//
 
 
 there is a 
