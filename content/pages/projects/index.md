@@ -4,7 +4,7 @@ title: Scans
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/3144D458-153F-405F-BE0C-0635ED39246A.JPG
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
