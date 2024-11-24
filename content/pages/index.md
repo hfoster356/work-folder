@@ -56,7 +56,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-three.md
-      - content/pages/projects/projects.md
     styles:
       self:
         height: auto
