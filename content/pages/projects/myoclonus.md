@@ -19,6 +19,12 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 The throes of death are often deeply shamanic - as the spirit hurtles and plummets and is conveyed, the rhythms of movement \[repetitive psychomotor agitation patterns, hypoxic tremor, myoclonic jerks, terminal seizures and convulsions] and breathing \[Cheyne-stokes respirations, Kussmaul and Biot's ataxic respiration patterns, sighing dyspnoea, brainstem agonal reflex breathing, the "Death rattle"] signalling death’s approach adopt ritual context in dance.
 
