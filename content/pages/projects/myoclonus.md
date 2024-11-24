@@ -3,7 +3,7 @@ type: ProjectLayout
 title: myoclonus
 date: '2024-05-08'
 client: ''
-description: 'sweet lovely '
+description: 'sweet lovely death, i am waiting for your breath'
 featuredImage:
   type: ImageBlock
   url: /images/myoclonus neat psychedelic.png
