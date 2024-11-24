@@ -13,7 +13,7 @@ metaTags: []
 colors: colors-a
 media:
   type: ImageBlock
-  url: /images/dog stars phone.png
+  url: /images/myoclonus neat psychedelic.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
