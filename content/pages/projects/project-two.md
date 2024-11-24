@@ -7,7 +7,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/bare hands stars.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
