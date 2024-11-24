@@ -4,10 +4,7 @@ title: jersey tiger moth
 colors: colors-a
 date: '2024-11-23'
 client: ''
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: at home we get these moths in summer
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
