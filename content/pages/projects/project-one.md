@@ -4,7 +4,7 @@ title: jersey tiger moth
 colors: colors-a
 date: '2023-06-21'
 client: ''
-description: at home we get these moths in summer
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
