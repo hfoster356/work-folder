@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/moth final final.png
+  url: /images/moth 1 square.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
