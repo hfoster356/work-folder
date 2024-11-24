@@ -17,42 +17,6 @@ featuredImage:
   elementId: ''
 ---
 <div style="text-align: left">```
-there is a 
-moon sole 
-in the blue 
-night 
-```</div>
-
-```
-         amorous of waters 
-```
-
-tremulous,
-blinded with silence the
-undulous heaven yearns where
-
-in tense starlessness
-anoint with ardor
-the yellow lover
-
-stands in the dumb dark
-svelte
-and
-urgent
-
-```
-       (again 
-```
-
-love i slowly
-gather
-of thy languorous mouth the
-
-thrilling
-flower)
-
-//
-
 in the rain-
 darkness,        the sunset
 being sheathed i sit and
@@ -79,8 +43,35 @@ a single star is
 uttered,and i
 
 think
-of you
+           of you
 
+//
+
+there is a 
+moon sole 
+in the blue 
+night 
+
+             amorous of waters 
+tremulous, 
+blinded with silence the 
+undulous heaven yearns where 
+
+in tense starlessness 
+anoint with ardor 
+the yellow lover 
+
+stands in the dumb dark 
+svelte 
+and 
+urgent 
+
+           (again 
+love i slowly 
+gather 
+of thy languorous mouth the 
+
+thrilling 
+flower)
 ```</div>
-```
 
