@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: myoclonus
 date: '2024-05-08'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
