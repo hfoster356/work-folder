@@ -8,10 +8,6 @@ featuredImage:
   type: ImageBlock
   url: /images/dog stars phone.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/dog stars phone.png
-  altText: Project image
 bottomSections: []
 metaTags: []
 colors: colors-a
