@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: swimming black
 colors: colors-a
-date: '2024-11-24'
+date: '2024-10-24'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
