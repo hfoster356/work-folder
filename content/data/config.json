@@ -60,6 +60,16 @@
                 "label": "send me your favourite joke",
                 "url": "mailto:hfoster356+site@gmail.com",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/https://open.spotify.com/user/hfoster356?si=0b196c3ef9624837",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "copyrightText": "",
