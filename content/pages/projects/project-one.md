@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: jersey tiger moth
 colors: colors-a
-date: '2024-12-23'
+date: '2024-11-23'
 client: ''
 description: at home we get these moths in summer
 featuredImage:
