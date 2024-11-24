@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: jersey tiger moth
+title: safer now
 date: '2023-06-21'
 client: ''
 description: ''
