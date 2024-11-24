@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: higher quality scans
+    title: archive
     subtitle: ''
     styles:
       self:
