@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: jersy tiger moth
 colors: colors-a
-date: '2024-11-24'
+date: '2024-11-23'
 client: ''
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
