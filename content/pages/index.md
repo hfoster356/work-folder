@@ -47,7 +47,7 @@ sections:
     subtitle: ''
     title: Scans
   - type: RecentPostsSection
-    subtitle: Posts
+    subtitle: ''
     actions:
       - type: Link
         label: See all posts
