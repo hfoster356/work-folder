@@ -22,7 +22,10 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects: []
+    projects:
+      - content/pages/projects/myoclonus.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/projects.md
     styles:
       self:
         height: auto
