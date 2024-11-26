@@ -82,4 +82,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Photos / music
 ---
