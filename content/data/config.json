@@ -1,35 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/favicon.svg",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            }
-        ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "instagram",
-                "altText": "",
-                "url": "/https://www.instagram.com/afx777777/",
-                "icon": "instagram",
-                "elementId": ""
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [
